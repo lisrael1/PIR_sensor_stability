@@ -3,7 +3,7 @@ check PIR stability by connecting it to raspberry pi
 
 put the pir against the wall, or in a box, and run this with 
 
-nohup python3 <script>.py >& log &
+nohup python3 pir_stability.py >& log &
   
 this will put pir vss in high z, then with 0v, and check for false alarm. the high z might not be that good and you still will have 1.5v at the pir vcc vss
 
