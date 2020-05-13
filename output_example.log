@@ -1,0 +1,1000 @@
+INFO: setting GPIO
+INFO: starting loop
+INFO: waiting   2 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':2}
+INFO: waiting for trigger event with timeout of     9 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-04-30__20:57:33
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-04-30__20:57:33'}
+INFO: waiting for trigger event with timeout of     8 sec
+INFO: ending loop of    10 sec with     1 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':1, 'loop_time_s':10}
+INFO: waiting  51 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':51}
+INFO: waiting for trigger event with timeout of  3419 sec
+ERROR: false alarm after    10 sec from reset at port 15 at 2020-04-30__21:05:26
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':10,'seconds_from_last_event':10,'date':'2020-04-30__21:05:26'}
+INFO: waiting for trigger event with timeout of  3408 sec
+ERROR: false alarm after    38 sec from reset at port 15 at 2020-04-30__21:05:53
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':38,'seconds_from_last_event':27,'date':'2020-04-30__21:05:53'}
+INFO: waiting for trigger event with timeout of  3380 sec
+INFO: ending loop of  3420 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':3420}
+INFO: waiting  37 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':37}
+INFO: waiting for trigger event with timeout of  2939 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-04-30__22:02:51
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-04-30__22:02:51'}
+INFO: waiting for trigger event with timeout of  2938 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-04-30__22:03:10
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-04-30__22:03:10'}
+INFO: waiting for trigger event with timeout of  2919 sec
+ERROR: false alarm after    40 sec from reset at port 15 at 2020-04-30__22:03:32
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':40,'seconds_from_last_event':21,'date':'2020-04-30__22:03:32'}
+INFO: waiting for trigger event with timeout of  2898 sec
+INFO: ending loop of  2940 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':2940}
+INFO: waiting  23 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':23}
+INFO: waiting for trigger event with timeout of  3059 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-04-30__22:52:30
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':16,'date':'2020-04-30__22:52:30'}
+INFO: waiting for trigger event with timeout of  3042 sec
+ERROR: false alarm after    34 sec from reset at port 15 at 2020-04-30__22:52:48
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':34,'seconds_from_last_event':18,'date':'2020-04-30__22:52:48'}
+INFO: waiting for trigger event with timeout of  3024 sec
+INFO: ending loop of  3060 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':3060}
+INFO: waiting  24 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':24}
+INFO: waiting for trigger event with timeout of  8639 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-04-30__23:43:54
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':16,'date':'2020-04-30__23:43:54'}
+INFO: waiting for trigger event with timeout of  8622 sec
+ERROR: false alarm after    34 sec from reset at port 15 at 2020-04-30__23:44:12
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':34,'seconds_from_last_event':18,'date':'2020-04-30__23:44:12'}
+INFO: waiting for trigger event with timeout of  8604 sec
+INFO: ending loop of  8640 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':8640}
+INFO: waiting  31 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':31}
+INFO: waiting for trigger event with timeout of  9899 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-01__02:08:08
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-01__02:08:08'}
+INFO: waiting for trigger event with timeout of  9898 sec
+ERROR: false alarm after    18 sec from reset at port 15 at 2020-05-01__02:08:27
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':18,'seconds_from_last_event':18,'date':'2020-05-01__02:08:27'}
+INFO: waiting for trigger event with timeout of  9880 sec
+ERROR: false alarm after    38 sec from reset at port 15 at 2020-05-01__02:08:47
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':38,'seconds_from_last_event':20,'date':'2020-05-01__02:08:47'}
+INFO: waiting for trigger event with timeout of  9860 sec
+INFO: ending loop of  9900 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':9900}
+INFO: waiting  10 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':10}
+INFO: waiting for trigger event with timeout of  4979 sec
+ERROR: false alarm after     8 sec from reset at port 15 at 2020-05-01__04:53:26
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':8,'seconds_from_last_event':8,'date':'2020-05-01__04:53:26'}
+INFO: waiting for trigger event with timeout of  4970 sec
+ERROR: false alarm after    22 sec from reset at port 15 at 2020-05-01__04:53:40
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':22,'seconds_from_last_event':13,'date':'2020-05-01__04:53:40'}
+INFO: waiting for trigger event with timeout of  4956 sec
+INFO: ending loop of  4980 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':4980}
+INFO: waiting  18 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':18}
+INFO: waiting for trigger event with timeout of  6839 sec
+ERROR: false alarm after    14 sec from reset at port 15 at 2020-05-01__06:16:50
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':14,'seconds_from_last_event':14,'date':'2020-05-01__06:16:50'}
+INFO: waiting for trigger event with timeout of  6824 sec
+ERROR: false alarm after    30 sec from reset at port 15 at 2020-05-01__06:17:06
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':30,'seconds_from_last_event':16,'date':'2020-05-01__06:17:06'}
+INFO: waiting for trigger event with timeout of  6808 sec
+INFO: ending loop of  6840 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':6840}
+INFO: waiting  27 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':27}
+INFO: waiting for trigger event with timeout of 10259 sec
+ERROR: false alarm after    17 sec from reset at port 15 at 2020-05-01__08:11:20
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':17,'seconds_from_last_event':17,'date':'2020-05-01__08:11:20'}
+INFO: waiting for trigger event with timeout of 10241 sec
+ERROR: false alarm after    36 sec from reset at port 15 at 2020-05-01__08:11:39
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':36,'seconds_from_last_event':19,'date':'2020-05-01__08:11:39'}
+INFO: waiting for trigger event with timeout of 10222 sec
+INFO: ending loop of 10260 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':10260}
+INFO: waiting   3 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':3}
+INFO: waiting for trigger event with timeout of  4739 sec
+ERROR: false alarm after    13 sec from reset at port 15 at 2020-05-01__11:02:19
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':13,'seconds_from_last_event':13,'date':'2020-05-01__11:02:19'}
+INFO: waiting for trigger event with timeout of  4725 sec
+INFO: ending loop of  4740 sec with     1 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':1, 'loop_time_s':4740}
+INFO: waiting  29 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':29}
+INFO: waiting for trigger event with timeout of  7859 sec
+ERROR: false alarm after    17 sec from reset at port 15 at 2020-05-01__12:21:52
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':17,'seconds_from_last_event':17,'date':'2020-05-01__12:21:52'}
+INFO: waiting for trigger event with timeout of  7841 sec
+ERROR: false alarm after    37 sec from reset at port 15 at 2020-05-01__12:22:11
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':37,'seconds_from_last_event':19,'date':'2020-05-01__12:22:11'}
+INFO: waiting for trigger event with timeout of  7821 sec
+INFO: ending loop of  7860 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':7860}
+INFO: waiting  23 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':23}
+INFO: waiting for trigger event with timeout of  4799 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-05-01__14:33:13
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':16,'date':'2020-05-01__14:33:13'}
+INFO: waiting for trigger event with timeout of  4782 sec
+ERROR: false alarm after    34 sec from reset at port 15 at 2020-05-01__14:33:31
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':34,'seconds_from_last_event':17,'date':'2020-05-01__14:33:31'}
+INFO: waiting for trigger event with timeout of  4764 sec
+INFO: ending loop of  4800 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':4800}
+INFO: waiting  56 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':56}
+INFO: waiting for trigger event with timeout of  2279 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-01__15:53:52
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-01__15:53:52'}
+INFO: waiting for trigger event with timeout of  2278 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-01__15:54:13
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-01__15:54:13'}
+INFO: waiting for trigger event with timeout of  2257 sec
+ERROR: false alarm after    44 sec from reset at port 15 at 2020-05-01__15:54:37
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':44,'seconds_from_last_event':23,'date':'2020-05-01__15:54:37'}
+INFO: waiting for trigger event with timeout of  2234 sec
+INFO: ending loop of  2280 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':2280}
+INFO: waiting  58 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':58}
+INFO: waiting for trigger event with timeout of  6359 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-01__16:32:50
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-01__16:32:50'}
+INFO: waiting for trigger event with timeout of  6358 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-01__16:33:11
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-01__16:33:11'}
+INFO: waiting for trigger event with timeout of  6337 sec
+ERROR: false alarm after    44 sec from reset at port 15 at 2020-05-01__16:33:34
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':44,'seconds_from_last_event':23,'date':'2020-05-01__16:33:34'}
+INFO: waiting for trigger event with timeout of  6314 sec
+INFO: ending loop of  6360 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':6360}
+INFO: waiting   3 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':3}
+INFO: waiting for trigger event with timeout of 10079 sec
+ERROR: false alarm after    13 sec from reset at port 15 at 2020-05-01__18:19:06
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':13,'seconds_from_last_event':13,'date':'2020-05-01__18:19:06'}
+INFO: waiting for trigger event with timeout of 10065 sec
+INFO: ending loop of 10080 sec with     1 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':1, 'loop_time_s':10080}
+INFO: waiting  29 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':29}
+INFO: waiting for trigger event with timeout of  3119 sec
+ERROR: false alarm after    17 sec from reset at port 15 at 2020-05-01__21:07:39
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':17,'seconds_from_last_event':17,'date':'2020-05-01__21:07:39'}
+INFO: waiting for trigger event with timeout of  3101 sec
+ERROR: false alarm after    37 sec from reset at port 15 at 2020-05-01__21:07:59
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':37,'seconds_from_last_event':19,'date':'2020-05-01__21:07:59'}
+INFO: waiting for trigger event with timeout of  3081 sec
+INFO: ending loop of  3120 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':3120}
+INFO: waiting  42 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':42}
+INFO: waiting for trigger event with timeout of  4199 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-01__22:00:03
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-01__22:00:03'}
+INFO: waiting for trigger event with timeout of  4198 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-01__22:00:23
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-01__22:00:23'}
+INFO: waiting for trigger event with timeout of  4178 sec
+ERROR: false alarm after    41 sec from reset at port 15 at 2020-05-01__22:00:44
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':41,'seconds_from_last_event':21,'date':'2020-05-01__22:00:44'}
+INFO: waiting for trigger event with timeout of  4157 sec
+INFO: ending loop of  4200 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':4200}
+INFO: waiting  37 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':37}
+INFO: waiting for trigger event with timeout of  7679 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-01__23:10:40
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-01__23:10:40'}
+INFO: waiting for trigger event with timeout of  7678 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-01__23:10:59
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-01__23:10:59'}
+INFO: waiting for trigger event with timeout of  7659 sec
+ERROR: false alarm after    40 sec from reset at port 15 at 2020-05-01__23:11:20
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':40,'seconds_from_last_event':21,'date':'2020-05-01__23:11:20'}
+INFO: waiting for trigger event with timeout of  7638 sec
+INFO: ending loop of  7680 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':7680}
+INFO: waiting  17 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':17}
+INFO: waiting for trigger event with timeout of  3899 sec
+ERROR: false alarm after    14 sec from reset at port 15 at 2020-05-02__01:19:10
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':14,'seconds_from_last_event':14,'date':'2020-05-02__01:19:10'}
+INFO: waiting for trigger event with timeout of  3884 sec
+ERROR: false alarm after    29 sec from reset at port 15 at 2020-05-02__01:19:26
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':29,'seconds_from_last_event':15,'date':'2020-05-02__01:19:26'}
+INFO: waiting for trigger event with timeout of  3869 sec
+INFO: ending loop of  3900 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':3900}
+INFO: waiting  59 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':59}
+INFO: waiting for trigger event with timeout of  5099 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__02:24:55
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__02:24:55'}
+INFO: waiting for trigger event with timeout of  5098 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-02__02:25:17
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-02__02:25:17'}
+INFO: waiting for trigger event with timeout of  5077 sec
+ERROR: false alarm after    44 sec from reset at port 15 at 2020-05-02__02:25:40
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':44,'seconds_from_last_event':23,'date':'2020-05-02__02:25:40'}
+INFO: waiting for trigger event with timeout of  5054 sec
+INFO: ending loop of  5100 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':5100}
+INFO: waiting  44 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':44}
+INFO: waiting for trigger event with timeout of  2879 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__03:50:39
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__03:50:39'}
+INFO: waiting for trigger event with timeout of  2878 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-02__03:50:59
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-02__03:50:59'}
+INFO: waiting for trigger event with timeout of  2858 sec
+ERROR: false alarm after    42 sec from reset at port 15 at 2020-05-02__03:51:22
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':42,'seconds_from_last_event':22,'date':'2020-05-02__03:51:22'}
+INFO: waiting for trigger event with timeout of  2836 sec
+INFO: ending loop of  2880 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':2880}
+INFO: waiting  23 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':23}
+INFO: waiting for trigger event with timeout of  1079 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-05-02__04:39:16
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':16,'date':'2020-05-02__04:39:16'}
+INFO: waiting for trigger event with timeout of  1062 sec
+ERROR: false alarm after    34 sec from reset at port 15 at 2020-05-02__04:39:34
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':34,'seconds_from_last_event':17,'date':'2020-05-02__04:39:34'}
+INFO: waiting for trigger event with timeout of  1044 sec
+INFO: ending loop of  1080 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':1080}
+INFO: waiting  21 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':21}
+INFO: waiting for trigger event with timeout of  8339 sec
+ERROR: false alarm after    15 sec from reset at port 15 at 2020-05-02__04:57:36
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':15,'seconds_from_last_event':15,'date':'2020-05-02__04:57:36'}
+INFO: waiting for trigger event with timeout of  8323 sec
+ERROR: false alarm after    33 sec from reset at port 15 at 2020-05-02__04:57:53
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':33,'seconds_from_last_event':17,'date':'2020-05-02__04:57:53'}
+INFO: waiting for trigger event with timeout of  8305 sec
+INFO: ending loop of  8340 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':8340}
+INFO: waiting  37 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':37}
+INFO: waiting for trigger event with timeout of  8399 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__07:16:57
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__07:16:57'}
+INFO: waiting for trigger event with timeout of  8398 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-02__07:17:16
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-02__07:17:16'}
+INFO: waiting for trigger event with timeout of  8379 sec
+ERROR: false alarm after    40 sec from reset at port 15 at 2020-05-02__07:17:37
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':40,'seconds_from_last_event':21,'date':'2020-05-02__07:17:37'}
+INFO: waiting for trigger event with timeout of  8358 sec
+INFO: ending loop of  8400 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':8400}
+INFO: waiting  40 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':40}
+INFO: waiting for trigger event with timeout of 10739 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__09:37:36
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__09:37:36'}
+INFO: waiting for trigger event with timeout of 10738 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-02__09:37:56
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-02__09:37:56'}
+INFO: waiting for trigger event with timeout of 10719 sec
+ERROR: false alarm after    41 sec from reset at port 15 at 2020-05-02__09:38:17
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':41,'seconds_from_last_event':21,'date':'2020-05-02__09:38:17'}
+INFO: waiting for trigger event with timeout of 10697 sec
+INFO: ending loop of 10740 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':10740}
+INFO: waiting  52 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':52}
+INFO: waiting for trigger event with timeout of  4979 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__12:37:27
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__12:37:27'}
+INFO: waiting for trigger event with timeout of  4978 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-02__12:37:48
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-02__12:37:48'}
+INFO: waiting for trigger event with timeout of  4957 sec
+ERROR: false alarm after    43 sec from reset at port 15 at 2020-05-02__12:38:11
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':43,'seconds_from_last_event':22,'date':'2020-05-02__12:38:11'}
+INFO: waiting for trigger event with timeout of  4935 sec
+INFO: ending loop of  4980 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':4980}
+INFO: waiting  31 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':31}
+INFO: waiting for trigger event with timeout of  3119 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__14:00:58
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__14:00:58'}
+INFO: waiting for trigger event with timeout of  3118 sec
+ERROR: false alarm after    18 sec from reset at port 15 at 2020-05-02__14:01:17
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':18,'seconds_from_last_event':18,'date':'2020-05-02__14:01:17'}
+INFO: waiting for trigger event with timeout of  3100 sec
+ERROR: false alarm after    38 sec from reset at port 15 at 2020-05-02__14:01:37
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':38,'seconds_from_last_event':20,'date':'2020-05-02__14:01:37'}
+INFO: waiting for trigger event with timeout of  3080 sec
+INFO: ending loop of  3120 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':3120}
+INFO: waiting   8 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':8}
+INFO: waiting for trigger event with timeout of  4019 sec
+ERROR: false alarm after    10 sec from reset at port 15 at 2020-05-02__14:53:16
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':10,'seconds_from_last_event':10,'date':'2020-05-02__14:53:16'}
+INFO: waiting for trigger event with timeout of  4008 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-02__14:53:25
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':8,'date':'2020-05-02__14:53:25'}
+INFO: waiting for trigger event with timeout of  3999 sec
+INFO: ending loop of  4020 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':4020}
+INFO: waiting   2 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':2}
+INFO: waiting for trigger event with timeout of  7139 sec
+ERROR: false alarm after     9 sec from reset at port 15 at 2020-05-02__16:00:17
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':9,'seconds_from_last_event':9,'date':'2020-05-02__16:00:17'}
+INFO: waiting for trigger event with timeout of  7129 sec
+INFO: ending loop of  7140 sec with     1 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':1, 'loop_time_s':7140}
+INFO: waiting  55 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':55}
+INFO: waiting for trigger event with timeout of  8039 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__18:00:02
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__18:00:02'}
+INFO: waiting for trigger event with timeout of  8038 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-02__18:00:23
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-02__18:00:23'}
+INFO: waiting for trigger event with timeout of  8017 sec
+ERROR: false alarm after    44 sec from reset at port 15 at 2020-05-02__18:00:46
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':44,'seconds_from_last_event':22,'date':'2020-05-02__18:00:46'}
+INFO: waiting for trigger event with timeout of  7994 sec
+INFO: ending loop of  8040 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':8040}
+INFO: waiting  13 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':13}
+INFO: waiting for trigger event with timeout of  7979 sec
+ERROR: false alarm after    12 sec from reset at port 15 at 2020-05-02__20:14:27
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':12,'seconds_from_last_event':12,'date':'2020-05-02__20:14:27'}
+INFO: waiting for trigger event with timeout of  7966 sec
+ERROR: false alarm after    26 sec from reset at port 15 at 2020-05-02__20:14:40
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':26,'seconds_from_last_event':13,'date':'2020-05-02__20:14:40'}
+INFO: waiting for trigger event with timeout of  7952 sec
+INFO: ending loop of  7980 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':7980}
+INFO: waiting  37 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':37}
+INFO: waiting for trigger event with timeout of  1619 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__22:27:51
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__22:27:51'}
+INFO: waiting for trigger event with timeout of  1618 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-02__22:28:10
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-02__22:28:10'}
+INFO: waiting for trigger event with timeout of  1599 sec
+ERROR: false alarm after    40 sec from reset at port 15 at 2020-05-02__22:28:31
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':40,'seconds_from_last_event':21,'date':'2020-05-02__22:28:31'}
+INFO: waiting for trigger event with timeout of  1578 sec
+INFO: ending loop of  1620 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':1620}
+INFO: waiting  38 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':38}
+INFO: waiting for trigger event with timeout of  6719 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-02__22:55:28
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-02__22:55:28'}
+INFO: waiting for trigger event with timeout of  6718 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-02__22:55:47
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-02__22:55:47'}
+INFO: waiting for trigger event with timeout of  6699 sec
+ERROR: false alarm after    40 sec from reset at port 15 at 2020-05-02__22:56:09
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':40,'seconds_from_last_event':21,'date':'2020-05-02__22:56:09'}
+INFO: waiting for trigger event with timeout of  6678 sec
+INFO: ending loop of  6720 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':6720}
+INFO: waiting  32 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':32}
+INFO: waiting for trigger event with timeout of 10139 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-03__00:48:00
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-03__00:48:00'}
+INFO: waiting for trigger event with timeout of 10138 sec
+ERROR: false alarm after    18 sec from reset at port 15 at 2020-05-03__00:48:18
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':18,'seconds_from_last_event':18,'date':'2020-05-03__00:48:18'}
+INFO: waiting for trigger event with timeout of 10120 sec
+ERROR: false alarm after    38 sec from reset at port 15 at 2020-05-03__00:48:39
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':38,'seconds_from_last_event':20,'date':'2020-05-03__00:48:39'}
+INFO: waiting for trigger event with timeout of 10100 sec
+INFO: ending loop of 10140 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':10140}
+INFO: waiting  45 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':45}
+INFO: waiting for trigger event with timeout of  6479 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-03__03:37:45
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-03__03:37:45'}
+INFO: waiting for trigger event with timeout of  6478 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-03__03:38:05
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-03__03:38:05'}
+INFO: waiting for trigger event with timeout of  6458 sec
+ERROR: false alarm after    42 sec from reset at port 15 at 2020-05-03__03:38:27
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':42,'seconds_from_last_event':22,'date':'2020-05-03__03:38:27'}
+INFO: waiting for trigger event with timeout of  6436 sec
+INFO: ending loop of  6480 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':6480}
+INFO: waiting  23 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':23}
+INFO: waiting for trigger event with timeout of  2519 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-05-03__05:26:24
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':16,'date':'2020-05-03__05:26:24'}
+INFO: waiting for trigger event with timeout of  2502 sec
+ERROR: false alarm after    34 sec from reset at port 15 at 2020-05-03__05:26:42
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':34,'seconds_from_last_event':17,'date':'2020-05-03__05:26:42'}
+INFO: waiting for trigger event with timeout of  2484 sec
+INFO: ending loop of  2520 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':2520}
+INFO: waiting  27 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':27}
+INFO: waiting for trigger event with timeout of  1139 sec
+ERROR: false alarm after    17 sec from reset at port 15 at 2020-05-03__06:08:51
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':17,'seconds_from_last_event':17,'date':'2020-05-03__06:08:51'}
+INFO: waiting for trigger event with timeout of  1121 sec
+ERROR: false alarm after    36 sec from reset at port 15 at 2020-05-03__06:09:10
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':36,'seconds_from_last_event':19,'date':'2020-05-03__06:09:10'}
+INFO: waiting for trigger event with timeout of  1102 sec
+INFO: ending loop of  1140 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':1140}
+INFO: waiting   9 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':9}
+INFO: waiting for trigger event with timeout of  5099 sec
+ERROR: false alarm after    10 sec from reset at port 15 at 2020-05-03__06:27:53
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':10,'seconds_from_last_event':10,'date':'2020-05-03__06:27:53'}
+INFO: waiting for trigger event with timeout of  5088 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-03__06:28:03
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':10,'date':'2020-05-03__06:28:03'}
+INFO: waiting for trigger event with timeout of  5078 sec
+INFO: ending loop of  5100 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':5100}
+INFO: waiting   4 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':4}
+INFO: waiting for trigger event with timeout of  2519 sec
+ERROR: false alarm after     8 sec from reset at port 15 at 2020-05-03__07:52:55
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':8,'seconds_from_last_event':8,'date':'2020-05-03__07:52:55'}
+INFO: waiting for trigger event with timeout of  2510 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-05-03__07:53:03
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':8,'date':'2020-05-03__07:53:03'}
+INFO: waiting for trigger event with timeout of  2502 sec
+INFO: ending loop of  2520 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':2520}
+INFO: waiting   6 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':6}
+INFO: waiting for trigger event with timeout of  9539 sec
+ERROR: false alarm after     8 sec from reset at port 15 at 2020-05-03__08:35:01
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':8,'seconds_from_last_event':8,'date':'2020-05-03__08:35:01'}
+INFO: waiting for trigger event with timeout of  9530 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-03__08:35:13
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':12,'date':'2020-05-03__08:35:13'}
+INFO: waiting for trigger event with timeout of  9517 sec
+INFO: ending loop of  9540 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':9540}
+INFO: waiting  57 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':57}
+INFO: waiting for trigger event with timeout of  7439 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-03__11:14:48
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-03__11:14:48'}
+INFO: waiting for trigger event with timeout of  7438 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-03__11:15:10
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-03__11:15:10'}
+INFO: waiting for trigger event with timeout of  7417 sec
+ERROR: false alarm after    44 sec from reset at port 15 at 2020-05-03__11:15:33
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':44,'seconds_from_last_event':23,'date':'2020-05-03__11:15:33'}
+INFO: waiting for trigger event with timeout of  7394 sec
+INFO: ending loop of  7440 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':7440}
+INFO: waiting  28 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':28}
+INFO: waiting for trigger event with timeout of  3599 sec
+ERROR: false alarm after    17 sec from reset at port 15 at 2020-05-03__13:19:34
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':17,'seconds_from_last_event':17,'date':'2020-05-03__13:19:34'}
+INFO: waiting for trigger event with timeout of  3581 sec
+ERROR: false alarm after    37 sec from reset at port 15 at 2020-05-03__13:19:53
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':37,'seconds_from_last_event':19,'date':'2020-05-03__13:19:53'}
+INFO: waiting for trigger event with timeout of  3561 sec
+INFO: ending loop of  3600 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':3600}
+INFO: waiting  26 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':26}
+INFO: waiting for trigger event with timeout of  6659 sec
+ERROR: false alarm after    17 sec from reset at port 15 at 2020-05-03__14:19:58
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':17,'seconds_from_last_event':17,'date':'2020-05-03__14:19:58'}
+INFO: waiting for trigger event with timeout of  6641 sec
+ERROR: false alarm after    35 sec from reset at port 15 at 2020-05-03__14:20:17
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':35,'seconds_from_last_event':18,'date':'2020-05-03__14:20:17'}
+INFO: waiting for trigger event with timeout of  6623 sec
+INFO: ending loop of  6660 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':6660}
+INFO: waiting  16 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':16}
+INFO: waiting for trigger event with timeout of  3779 sec
+ERROR: false alarm after    13 sec from reset at port 15 at 2020-05-03__16:11:11
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':13,'seconds_from_last_event':13,'date':'2020-05-03__16:11:11'}
+INFO: waiting for trigger event with timeout of  3765 sec
+ERROR: false alarm after    28 sec from reset at port 15 at 2020-05-03__16:11:26
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':28,'seconds_from_last_event':15,'date':'2020-05-03__16:11:26'}
+INFO: waiting for trigger event with timeout of  3750 sec
+INFO: ending loop of  3780 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':3780}
+INFO: waiting  13 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':13}
+INFO: waiting for trigger event with timeout of  4139 sec
+ERROR: false alarm after    12 sec from reset at port 15 at 2020-05-03__17:14:23
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':12,'seconds_from_last_event':12,'date':'2020-05-03__17:14:23'}
+INFO: waiting for trigger event with timeout of  4126 sec
+ERROR: false alarm after    25 sec from reset at port 15 at 2020-05-03__17:14:36
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':25,'seconds_from_last_event':13,'date':'2020-05-03__17:14:36'}
+INFO: waiting for trigger event with timeout of  4113 sec
+INFO: ending loop of  4140 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':4140}
+INFO: waiting  16 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':16}
+INFO: waiting for trigger event with timeout of  6959 sec
+ERROR: false alarm after    13 sec from reset at port 15 at 2020-05-03__18:23:40
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':13,'seconds_from_last_event':13,'date':'2020-05-03__18:23:40'}
+INFO: waiting for trigger event with timeout of  6945 sec
+ERROR: false alarm after    28 sec from reset at port 15 at 2020-05-03__18:23:55
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':28,'seconds_from_last_event':15,'date':'2020-05-03__18:23:55'}
+INFO: waiting for trigger event with timeout of  6930 sec
+INFO: ending loop of  6960 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':6960}
+INFO: waiting  43 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':43}
+INFO: waiting for trigger event with timeout of  5459 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-03__20:20:10
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-03__20:20:10'}
+INFO: waiting for trigger event with timeout of  5458 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-03__20:20:30
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-03__20:20:30'}
+INFO: waiting for trigger event with timeout of  5438 sec
+ERROR: false alarm after    41 sec from reset at port 15 at 2020-05-03__20:20:51
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':41,'seconds_from_last_event':21,'date':'2020-05-03__20:20:51'}
+INFO: waiting for trigger event with timeout of  5417 sec
+INFO: ending loop of  5460 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':5460}
+INFO: waiting  32 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':32}
+INFO: waiting for trigger event with timeout of  4619 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-03__21:51:42
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-03__21:51:42'}
+INFO: waiting for trigger event with timeout of  4618 sec
+ERROR: false alarm after    18 sec from reset at port 15 at 2020-05-03__21:52:00
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':18,'seconds_from_last_event':18,'date':'2020-05-03__21:52:00'}
+INFO: waiting for trigger event with timeout of  4600 sec
+ERROR: false alarm after    38 sec from reset at port 15 at 2020-05-03__21:52:20
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':38,'seconds_from_last_event':20,'date':'2020-05-03__21:52:20'}
+INFO: waiting for trigger event with timeout of  4580 sec
+INFO: ending loop of  4620 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':4620}
+INFO: waiting   3 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':3}
+INFO: waiting for trigger event with timeout of  7559 sec
+ERROR: false alarm after    13 sec from reset at port 15 at 2020-05-03__23:08:58
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':13,'seconds_from_last_event':13,'date':'2020-05-03__23:08:58'}
+INFO: waiting for trigger event with timeout of  7545 sec
+INFO: ending loop of  7560 sec with     1 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':1, 'loop_time_s':7560}
+INFO: waiting  28 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':28}
+INFO: waiting for trigger event with timeout of  8579 sec
+ERROR: false alarm after    17 sec from reset at port 15 at 2020-05-04__01:15:30
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':17,'seconds_from_last_event':17,'date':'2020-05-04__01:15:30'}
+INFO: waiting for trigger event with timeout of  8561 sec
+ERROR: false alarm after    36 sec from reset at port 15 at 2020-05-04__01:15:49
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':36,'seconds_from_last_event':19,'date':'2020-05-04__01:15:49'}
+INFO: waiting for trigger event with timeout of  8542 sec
+INFO: ending loop of  8580 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':8580}
+INFO: waiting  20 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':20}
+INFO: waiting for trigger event with timeout of  6239 sec
+ERROR: false alarm after    15 sec from reset at port 15 at 2020-05-04__03:38:48
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':15,'seconds_from_last_event':15,'date':'2020-05-04__03:38:48'}
+INFO: waiting for trigger event with timeout of  6223 sec
+ERROR: false alarm after    32 sec from reset at port 15 at 2020-05-04__03:39:04
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':32,'seconds_from_last_event':16,'date':'2020-05-04__03:39:04'}
+INFO: waiting for trigger event with timeout of  6206 sec
+INFO: ending loop of  6240 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':6240}
+INFO: waiting  50 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':50}
+INFO: waiting for trigger event with timeout of  8639 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-04__05:23:21
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-04__05:23:21'}
+INFO: waiting for trigger event with timeout of  8638 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-04__05:23:42
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-04__05:23:42'}
+INFO: waiting for trigger event with timeout of  8618 sec
+ERROR: false alarm after    43 sec from reset at port 15 at 2020-05-04__05:24:05
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':43,'seconds_from_last_event':22,'date':'2020-05-04__05:24:05'}
+INFO: waiting for trigger event with timeout of  8595 sec
+INFO: ending loop of  8640 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':8640}
+INFO: waiting  40 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':40}
+INFO: waiting for trigger event with timeout of  3059 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-04__07:48:01
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-04__07:48:01'}
+INFO: waiting for trigger event with timeout of  3058 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-04__07:48:21
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-04__07:48:21'}
+INFO: waiting for trigger event with timeout of  3039 sec
+ERROR: false alarm after    41 sec from reset at port 15 at 2020-05-04__07:48:42
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':41,'seconds_from_last_event':21,'date':'2020-05-04__07:48:42'}
+INFO: waiting for trigger event with timeout of  3017 sec
+INFO: ending loop of  3060 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':3060}
+INFO: waiting  54 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':54}
+INFO: waiting for trigger event with timeout of  5159 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-04__08:39:54
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-04__08:39:54'}
+INFO: waiting for trigger event with timeout of  5158 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-04__08:40:16
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-04__08:40:16'}
+INFO: waiting for trigger event with timeout of  5137 sec
+ERROR: false alarm after    44 sec from reset at port 15 at 2020-05-04__08:40:38
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':44,'seconds_from_last_event':22,'date':'2020-05-04__08:40:38'}
+INFO: waiting for trigger event with timeout of  5114 sec
+INFO: ending loop of  5160 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':5160}
+INFO: waiting  34 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':34}
+INFO: waiting for trigger event with timeout of  6359 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-04__10:06:28
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-04__10:06:28'}
+INFO: waiting for trigger event with timeout of  6358 sec
+ERROR: false alarm after    18 sec from reset at port 15 at 2020-05-04__10:06:46
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':18,'seconds_from_last_event':18,'date':'2020-05-04__10:06:46'}
+INFO: waiting for trigger event with timeout of  6340 sec
+ERROR: false alarm after    39 sec from reset at port 15 at 2020-05-04__10:07:07
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':39,'seconds_from_last_event':20,'date':'2020-05-04__10:07:07'}
+INFO: waiting for trigger event with timeout of  6319 sec
+INFO: ending loop of  6360 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':6360}
+INFO: waiting  40 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':40}
+INFO: waiting for trigger event with timeout of  1919 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-04__11:53:07
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-04__11:53:07'}
+INFO: waiting for trigger event with timeout of  1918 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-04__11:53:27
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-04__11:53:27'}
+INFO: waiting for trigger event with timeout of  1899 sec
+ERROR: false alarm after    41 sec from reset at port 15 at 2020-05-04__11:53:48
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':41,'seconds_from_last_event':21,'date':'2020-05-04__11:53:48'}
+INFO: waiting for trigger event with timeout of  1877 sec
+INFO: ending loop of  1920 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':1920}
+INFO: waiting  35 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':35}
+INFO: waiting for trigger event with timeout of   599 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-04__12:25:41
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-04__12:25:41'}
+INFO: waiting for trigger event with timeout of   598 sec
+ERROR: false alarm after    18 sec from reset at port 15 at 2020-05-04__12:26:00
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':18,'seconds_from_last_event':18,'date':'2020-05-04__12:26:00'}
+INFO: waiting for trigger event with timeout of   580 sec
+ERROR: false alarm after    39 sec from reset at port 15 at 2020-05-04__12:26:21
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':39,'seconds_from_last_event':20,'date':'2020-05-04__12:26:21'}
+INFO: waiting for trigger event with timeout of   559 sec
+INFO: ending loop of   600 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':600}
+INFO: waiting  32 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':32}
+INFO: waiting for trigger event with timeout of  2579 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-04__12:36:13
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-04__12:36:13'}
+INFO: waiting for trigger event with timeout of  2578 sec
+ERROR: false alarm after    18 sec from reset at port 15 at 2020-05-04__12:36:31
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':18,'seconds_from_last_event':18,'date':'2020-05-04__12:36:31'}
+INFO: waiting for trigger event with timeout of  2560 sec
+ERROR: false alarm after    38 sec from reset at port 15 at 2020-05-04__12:36:52
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':38,'seconds_from_last_event':20,'date':'2020-05-04__12:36:52'}
+INFO: waiting for trigger event with timeout of  2540 sec
+INFO: ending loop of  2580 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':2580}
+INFO: waiting   5 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':5}
+INFO: waiting for trigger event with timeout of  3539 sec
+ERROR: false alarm after     8 sec from reset at port 15 at 2020-05-04__13:19:27
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':8,'seconds_from_last_event':8,'date':'2020-05-04__13:19:27'}
+INFO: waiting for trigger event with timeout of  3530 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-04__13:19:37
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':10,'date':'2020-05-04__13:19:37'}
+INFO: waiting for trigger event with timeout of  3519 sec
+INFO: ending loop of  3540 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':3540}
+INFO: waiting  25 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':25}
+INFO: waiting for trigger event with timeout of  6239 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-05-04__14:18:59
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':16,'date':'2020-05-04__14:18:59'}
+INFO: waiting for trigger event with timeout of  6222 sec
+ERROR: false alarm after    35 sec from reset at port 15 at 2020-05-04__14:19:17
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':35,'seconds_from_last_event':18,'date':'2020-05-04__14:19:17'}
+INFO: waiting for trigger event with timeout of  6203 sec
+INFO: ending loop of  6240 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':6240}
+INFO: waiting   5 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':5}
+INFO: waiting for trigger event with timeout of  7679 sec
+ERROR: false alarm after     8 sec from reset at port 15 at 2020-05-04__16:02:54
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':8,'seconds_from_last_event':8,'date':'2020-05-04__16:02:54'}
+INFO: waiting for trigger event with timeout of  7670 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-04__16:03:05
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':10,'date':'2020-05-04__16:03:05'}
+INFO: waiting for trigger event with timeout of  7659 sec
+INFO: ending loop of  7680 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':7680}
+INFO: waiting  11 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':11}
+INFO: waiting for trigger event with timeout of  9719 sec
+ERROR: false alarm after    11 sec from reset at port 15 at 2020-05-04__18:11:08
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':11,'seconds_from_last_event':11,'date':'2020-05-04__18:11:08'}
+INFO: waiting for trigger event with timeout of  9707 sec
+ERROR: false alarm after    23 sec from reset at port 15 at 2020-05-04__18:11:20
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':23,'seconds_from_last_event':11,'date':'2020-05-04__18:11:20'}
+INFO: waiting for trigger event with timeout of  9695 sec
+INFO: ending loop of  9720 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':9720}
+INFO: waiting  42 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':42}
+INFO: waiting for trigger event with timeout of  9719 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-04__20:53:38
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-04__20:53:38'}
+INFO: waiting for trigger event with timeout of  9718 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-04__20:53:58
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-04__20:53:58'}
+INFO: waiting for trigger event with timeout of  9699 sec
+ERROR: false alarm after    41 sec from reset at port 15 at 2020-05-04__20:54:20
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':41,'seconds_from_last_event':21,'date':'2020-05-04__20:54:20'}
+INFO: waiting for trigger event with timeout of  9677 sec
+INFO: ending loop of  9720 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':9720}
+INFO: waiting  18 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':18}
+INFO: waiting for trigger event with timeout of  7259 sec
+ERROR: false alarm after    14 sec from reset at port 15 at 2020-05-04__23:36:10
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':14,'seconds_from_last_event':14,'date':'2020-05-04__23:36:10'}
+INFO: waiting for trigger event with timeout of  7244 sec
+ERROR: false alarm after    30 sec from reset at port 15 at 2020-05-04__23:36:26
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':30,'seconds_from_last_event':15,'date':'2020-05-04__23:36:26'}
+INFO: waiting for trigger event with timeout of  7228 sec
+INFO: ending loop of  7260 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':7260}
+INFO: waiting  12 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':12}
+INFO: waiting for trigger event with timeout of   599 sec
+ERROR: false alarm after    12 sec from reset at port 15 at 2020-05-05__01:37:20
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':12,'seconds_from_last_event':12,'date':'2020-05-05__01:37:20'}
+INFO: waiting for trigger event with timeout of   586 sec
+ERROR: false alarm after    24 sec from reset at port 15 at 2020-05-05__01:37:32
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':24,'seconds_from_last_event':12,'date':'2020-05-05__01:37:32'}
+INFO: waiting for trigger event with timeout of   574 sec
+INFO: ending loop of   600 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':600}
+INFO: waiting  25 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':25}
+INFO: waiting for trigger event with timeout of  9059 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-05-05__01:47:49
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':16,'date':'2020-05-05__01:47:49'}
+INFO: waiting for trigger event with timeout of  9042 sec
+ERROR: false alarm after    35 sec from reset at port 15 at 2020-05-05__01:48:07
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':35,'seconds_from_last_event':18,'date':'2020-05-05__01:48:07'}
+INFO: waiting for trigger event with timeout of  9023 sec
+INFO: ending loop of  9060 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':9060}
+INFO: waiting  13 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':13}
+INFO: waiting for trigger event with timeout of  1979 sec
+ERROR: false alarm after    12 sec from reset at port 15 at 2020-05-05__04:18:57
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':12,'seconds_from_last_event':12,'date':'2020-05-05__04:18:57'}
+INFO: waiting for trigger event with timeout of  1966 sec
+ERROR: false alarm after    25 sec from reset at port 15 at 2020-05-05__04:19:11
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':25,'seconds_from_last_event':13,'date':'2020-05-05__04:19:11'}
+INFO: waiting for trigger event with timeout of  1953 sec
+INFO: ending loop of  1980 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':1980}
+INFO: waiting   3 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':3}
+INFO: waiting for trigger event with timeout of  5159 sec
+ERROR: false alarm after    13 sec from reset at port 15 at 2020-05-05__04:52:01
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':13,'seconds_from_last_event':13,'date':'2020-05-05__04:52:01'}
+INFO: waiting for trigger event with timeout of  5145 sec
+INFO: ending loop of  5160 sec with     1 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':1, 'loop_time_s':5160}
+INFO: waiting  26 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':26}
+INFO: waiting for trigger event with timeout of  1379 sec
+ERROR: false alarm after    17 sec from reset at port 15 at 2020-05-05__06:18:31
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':17,'seconds_from_last_event':17,'date':'2020-05-05__06:18:31'}
+INFO: waiting for trigger event with timeout of  1361 sec
+ERROR: false alarm after    35 sec from reset at port 15 at 2020-05-05__06:18:49
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':35,'seconds_from_last_event':18,'date':'2020-05-05__06:18:49'}
+INFO: waiting for trigger event with timeout of  1343 sec
+INFO: ending loop of  1380 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':1380}
+INFO: waiting  14 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':14}
+INFO: waiting for trigger event with timeout of  8699 sec
+ERROR: false alarm after    13 sec from reset at port 15 at 2020-05-05__06:41:41
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':13,'seconds_from_last_event':13,'date':'2020-05-05__06:41:41'}
+INFO: waiting for trigger event with timeout of  8685 sec
+ERROR: false alarm after    26 sec from reset at port 15 at 2020-05-05__06:41:54
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':26,'seconds_from_last_event':13,'date':'2020-05-05__06:41:54'}
+INFO: waiting for trigger event with timeout of  8672 sec
+INFO: ending loop of  8700 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':8700}
+INFO: waiting  50 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':50}
+INFO: waiting for trigger event with timeout of  3899 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-05__09:07:17
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-05__09:07:17'}
+INFO: waiting for trigger event with timeout of  3898 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-05__09:07:38
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-05__09:07:38'}
+INFO: waiting for trigger event with timeout of  3878 sec
+ERROR: false alarm after    43 sec from reset at port 15 at 2020-05-05__09:08:01
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':43,'seconds_from_last_event':22,'date':'2020-05-05__09:08:01'}
+INFO: waiting for trigger event with timeout of  3855 sec
+INFO: ending loop of  3900 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':3900}
+INFO: waiting   6 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':6}
+INFO: waiting for trigger event with timeout of  4199 sec
+ERROR: false alarm after     8 sec from reset at port 15 at 2020-05-05__10:12:32
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':8,'seconds_from_last_event':8,'date':'2020-05-05__10:12:32'}
+INFO: waiting for trigger event with timeout of  4190 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-05__10:12:44
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':12,'date':'2020-05-05__10:12:44'}
+INFO: waiting for trigger event with timeout of  4177 sec
+INFO: ending loop of  4200 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':4200}
+INFO: waiting  42 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':42}
+INFO: waiting for trigger event with timeout of  9899 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-05__11:23:04
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-05__11:23:04'}
+INFO: waiting for trigger event with timeout of  9898 sec
+ERROR: false alarm after    19 sec from reset at port 15 at 2020-05-05__11:23:24
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':19,'seconds_from_last_event':19,'date':'2020-05-05__11:23:24'}
+INFO: waiting for trigger event with timeout of  9879 sec
+ERROR: false alarm after    41 sec from reset at port 15 at 2020-05-05__11:23:46
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':41,'seconds_from_last_event':21,'date':'2020-05-05__11:23:46'}
+INFO: waiting for trigger event with timeout of  9857 sec
+INFO: ending loop of  9900 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':9900}
+INFO: waiting  25 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':25}
+INFO: waiting for trigger event with timeout of   659 sec
+ERROR: false alarm after    16 sec from reset at port 15 at 2020-05-05__14:08:46
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':16,'seconds_from_last_event':16,'date':'2020-05-05__14:08:46'}
+INFO: waiting for trigger event with timeout of   642 sec
+ERROR: false alarm after    35 sec from reset at port 15 at 2020-05-05__14:09:04
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':35,'seconds_from_last_event':18,'date':'2020-05-05__14:09:04'}
+INFO: waiting for trigger event with timeout of   623 sec
+INFO: ending loop of   660 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':660}
+INFO: waiting  11 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':11}
+INFO: waiting for trigger event with timeout of  5519 sec
+ERROR: false alarm after    11 sec from reset at port 15 at 2020-05-05__14:19:51
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':11,'seconds_from_last_event':11,'date':'2020-05-05__14:19:51'}
+INFO: waiting for trigger event with timeout of  5507 sec
+ERROR: false alarm after    23 sec from reset at port 15 at 2020-05-05__14:20:03
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':23,'seconds_from_last_event':11,'date':'2020-05-05__14:20:03'}
+INFO: waiting for trigger event with timeout of  5495 sec
+INFO: ending loop of  5520 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':5520}
+INFO: waiting  57 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':57}
+INFO: waiting for trigger event with timeout of  5999 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-05__21:41:39
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-05__21:41:39'}
+INFO: waiting for trigger event with timeout of  5998 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-05__21:42:00
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-05__21:42:00'}
+INFO: waiting for trigger event with timeout of  5977 sec
+ERROR: false alarm after    44 sec from reset at port 15 at 2020-05-05__21:42:23
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':44,'seconds_from_last_event':22,'date':'2020-05-05__21:42:23'}
+INFO: waiting for trigger event with timeout of  5954 sec
+INFO: ending loop of  6000 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':6000}
+INFO: waiting  49 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':49}
+INFO: waiting for trigger event with timeout of  9839 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-05__23:22:27
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-05__23:22:27'}
+INFO: waiting for trigger event with timeout of  9838 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-05__23:22:48
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-05__23:22:48'}
+INFO: waiting for trigger event with timeout of  9818 sec
+ERROR: false alarm after    43 sec from reset at port 15 at 2020-05-05__23:23:10
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':43,'seconds_from_last_event':22,'date':'2020-05-05__23:23:10'}
+INFO: waiting for trigger event with timeout of  9795 sec
+INFO: ending loop of  9840 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':9840}
+INFO: waiting  12 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':12}
+INFO: waiting for trigger event with timeout of  1079 sec
+ERROR: false alarm after    12 sec from reset at port 15 at 2020-05-06__02:06:51
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':12,'seconds_from_last_event':12,'date':'2020-05-06__02:06:51'}
+INFO: waiting for trigger event with timeout of  1066 sec
+ERROR: false alarm after    24 sec from reset at port 15 at 2020-05-06__02:07:03
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':24,'seconds_from_last_event':12,'date':'2020-05-06__02:07:03'}
+INFO: waiting for trigger event with timeout of  1054 sec
+INFO: ending loop of  1080 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':1080}
+INFO: waiting  30 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':30}
+INFO: waiting for trigger event with timeout of  2819 sec
+ERROR: false alarm after    18 sec from reset at port 15 at 2020-05-06__02:25:26
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':18,'seconds_from_last_event':18,'date':'2020-05-06__02:25:26'}
+INFO: waiting for trigger event with timeout of  2800 sec
+ERROR: false alarm after    37 sec from reset at port 15 at 2020-05-06__02:25:46
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':37,'seconds_from_last_event':19,'date':'2020-05-06__02:25:46'}
+INFO: waiting for trigger event with timeout of  2781 sec
+INFO: ending loop of  2820 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':2820}
+INFO: waiting   9 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':9}
+INFO: waiting for trigger event with timeout of  2039 sec
+ERROR: false alarm after    10 sec from reset at port 15 at 2020-05-06__03:12:27
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':10,'seconds_from_last_event':10,'date':'2020-05-06__03:12:27'}
+INFO: waiting for trigger event with timeout of  2028 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-06__03:12:38
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':10,'date':'2020-05-06__03:12:38'}
+INFO: waiting for trigger event with timeout of  2018 sec
+INFO: ending loop of  2040 sec with     2 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':2, 'loop_time_s':2040}
+INFO: waiting  45 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':45}
+INFO: waiting for trigger event with timeout of  5099 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-06__03:47:02
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-06__03:47:02'}
+INFO: waiting for trigger event with timeout of  5098 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-06__03:47:22
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-06__03:47:22'}
+INFO: waiting for trigger event with timeout of  5078 sec
+ERROR: false alarm after    42 sec from reset at port 15 at 2020-05-06__03:47:44
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':42,'seconds_from_last_event':21,'date':'2020-05-06__03:47:44'}
+INFO: waiting for trigger event with timeout of  5056 sec
+INFO: ending loop of  5100 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':5100}
+INFO: waiting  46 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':46}
+INFO: waiting for trigger event with timeout of  3419 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-06__05:12:47
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-06__05:12:47'}
+INFO: waiting for trigger event with timeout of  3418 sec
+ERROR: false alarm after    20 sec from reset at port 15 at 2020-05-06__05:13:08
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':20,'seconds_from_last_event':20,'date':'2020-05-06__05:13:08'}
+INFO: waiting for trigger event with timeout of  3398 sec
+ERROR: false alarm after    42 sec from reset at port 15 at 2020-05-06__05:13:30
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':42,'seconds_from_last_event':22,'date':'2020-05-06__05:13:30'}
+INFO: waiting for trigger event with timeout of  3376 sec
+INFO: ending loop of  3420 sec with     3 errors
+ hash_format: {'level':'INFO','m_type':'end_loop','errors':3, 'loop_time_s':3420}
+INFO: waiting  59 sec for reset
+ hash_format: {'level':'INFO','m_type':'reset_time','value':59}
+INFO: waiting for trigger event with timeout of  2879 sec
+ERROR: false alarm after     0 sec from reset at port 15 at 2020-05-06__06:10:46
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':0,'seconds_from_last_event':0,'date':'2020-05-06__06:10:46'}
+INFO: waiting for trigger event with timeout of  2878 sec
+ERROR: false alarm after    21 sec from reset at port 15 at 2020-05-06__06:11:07
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':21,'seconds_from_last_event':21,'date':'2020-05-06__06:11:07'}
+INFO: waiting for trigger event with timeout of  2857 sec
+ERROR: false alarm after    44 sec from reset at port 15 at 2020-05-06__06:11:31
+ hash_format: {'level':'ERROR','m_type':'false_alarm','seconds_from_reset':44,'seconds_from_last_event':23,'date':'2020-05-06__06:11:31'}
+INFO: waiting for trigger event with timeout of  2834 sec
