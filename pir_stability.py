@@ -4,8 +4,8 @@
 # nohup python3 <script>.py >& log &
 # this will put pir vss in high z, then with 0v, and check for false alarm. the high z might not be that good and you still will have 1.5v at the pir vcc vss
 # at the output you will be able to see how much time it takes for the reset to be stable
-# connect PIR vcc to 3.3v or 5v, PIR vss to 2, and trigger to port 3. (note that ports 2 and 3 has pull up so don’t switch to them)
-# connect led vcc to 4 and vss to gnd
+# connect PIR vcc to 3.3v or 5v, PIR vss to 14, and trigger to port 15. (note that ports 2 and 3 has pull up so don’t switch to them)
+# connect led vcc to 18 and vss to gnd
 
 # you can parse the log by 
 # cat log |grep hash_format|grep -o "{'.*"
